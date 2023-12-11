@@ -1,1 +1,1 @@
-# CP
+# CP(Competitive Programming)
