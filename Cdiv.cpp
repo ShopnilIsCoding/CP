@@ -17,9 +17,7 @@ int main()
             s.erase(n-1,1);
             s.erase(j,1);
             }
-
         }
     }
-
 cout<<s;
 }
